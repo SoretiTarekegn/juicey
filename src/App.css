@@ -1,0 +1,22 @@
+/* src/App.css */
+nav {
+  background-color: #4caf50;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
